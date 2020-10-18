@@ -8,5 +8,4 @@ Current Studies 📚 :
 - C#
 - Machine Learning Basics
 
-- 📫 How to reach me: You can hit me up on Linkedin 
 
