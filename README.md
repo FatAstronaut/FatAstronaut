@@ -7,6 +7,7 @@ Current Studies 📚 :
 - C
 - C# and OOP
 - Machine Learning Basics
+- Scrum
 
 <img hight="300" width="300" alt="GIF" align="left" src="https://github.com/FatAstronaut/FatAstronaut/blob/main/d06.gif">
 
