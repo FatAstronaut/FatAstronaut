@@ -6,6 +6,7 @@ About Me 👨‍💻 : I'm a 17 years old. Self-teaching Computer Science.
 Current Studies 📚 : 
 - C
 - C# and OOP
+- Hmtl / Css
 - Python
 - Machine Learning Basics
 - MIT App Inventor
