@@ -8,7 +8,7 @@ Current Studies 📚 :
 - C# and OOP
 - Python
 - Machine Learning Basics
-- Scrum
+- MIT App Inventor
 
 <img hight="300" width="300" alt="GIF" align="left" src="https://github.com/FatAstronaut/FatAstronaut/blob/main/d06.gif">
 
