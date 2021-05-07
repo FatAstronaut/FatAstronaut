@@ -7,6 +7,7 @@ Current Studies 📚 :
 - C
 - C# and OOP
 - Hmtl / Css
+- MySQL
 - Python
 - Machine Learning Basics
 - MIT App Inventor
