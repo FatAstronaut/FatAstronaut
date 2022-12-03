@@ -1,6 +1,6 @@
 Hi! I'm Gustavo 👋
 
-About Me 👨‍💻 : I'm a 17 years old. Self-teaching Computer Science. 
+About Me 👨‍💻 : I'm a 18 years old. Self-teaching Computer Science. 
 
 
 Current Studies 📚 : 
